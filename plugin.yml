@@ -1,0 +1,6 @@
+name: InvUpdate
+author: _H4ck3rs_
+version: 1.0
+main: de.h4ck3rs.updatedinv.UpdatedInv
+commands:
+  Start:
